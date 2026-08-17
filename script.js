@@ -9,9 +9,9 @@
    on the site reads from here.
    ====================================================== */
 // REPLACE 1: WhatsApp number in international format, no "+", no spaces
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "919360244726";
 // REPLACE 2: Phone number used for tel: links
-const PHONE_NUMBER = "+91XXXXXXXXXX";
+const PHONE_NUMBER = "+919360244726";
 
 /* ====================================================== */
 
